@@ -66,38 +66,396 @@ Kiparsky, P. "'Elsewhere' in Phonology." In _A Festschrift for Morris Halle_. Ed
 {{< anchor "sessions" >}}{{< /anchor >}}Readings by Session
 -----------------------------------------------------------
 
-| Lec # | topics | readings |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Correspondence Theory**{{< /td-colspan >}} |||
-| 1 | Correspondence Theory Basics | &nbsp; |
-| 2 | Correspondence Theory (cont.) | McCarthy and Prince (1994) Appendix |
-| 3 | MAX F Constraints and Positional Faithfulness | Lombardi (1998) (optional) |
-| {{< td-colspan 3 >}}**Reduplication**{{< /td-colspan >}} |||
-| 4 | Reduplication: Basic Laws | Marantz (1982) |
-| 5 | Reduplicative Correspondence | McCarthy and Prince (1994) |
-| 6 | Reduplicant Size and Placement | &nbsp; |
-| 7 | Reduplicant Size and Placement (cont.) | Broselow and McCarthy (1983) (optional) |
-| 8 | BR vs. IR Correspondence |  {{< br >}}{{< br >}} McCarthy and Prince (1994) {{< br >}}{{< br >}} Alderete et. al. (1999) {{< br >}}{{< br >}}  |
-| 9 | Emergence of the Unmarked, and Non-reduplicative Correspondence |  {{< br >}}{{< br >}} Zuraw (2002) {{< br >}}{{< br >}} Rose and Walker (2004) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Lexical Phonology and Cyclicity Effects**{{< /td-colspan >}} |||
-| 10 | Lexical vs. Postlexical Phonology |  {{< br >}}{{< br >}} Kiparsky (1982) {{< br >}}{{< br >}} Chung (1983) {{< br >}}{{< br >}}  |
-| 11 | Cyclicity and its OT Translations | &nbsp; |
-| 12 | OO Correspondence | &nbsp; |
-| 13 | Base-derivative Correspondence | Benua (1997) |
-| {{< td-colspan 3 >}}**Paradigm Uniformity**{{< /td-colspan >}} |||
-| 14 | Paradigm Uniformity | Steriade (1999) |
-| 15 | Paradigm Uniformity (cont.) | McCarthy (2003) |
-| 16 | More on Paradigm Regularization | &nbsp; |
-| {{< td-colspan 3 >}}**Opacity**{{< /td-colspan >}} |||
-| 17 | Overview: Types of Opacity | &nbsp; |
-| 18 | Characteristics of Opacity | McCarthy (1999) |
-| 19 | Formalization of Opacity in OT | Ito and Mester (2003) |
-| 20 | Sympathy Theory  {{< br >}}  {{< br >}}Other Approaches to Opacity | Kiparsky (1973) |
-| 21 | Comparative Markedness | McCarthy (2003) |
-| {{< td-colspan 3 >}}**Exceptions**{{< /td-colspan >}} |||
-| 22 | Introduction to Exceptions | Kenstowicz and Kisseberth  {{< br >}}(1977) Chapter 2, Sec. 3.1 |
-| 23 | The Representation of Exceptions | &nbsp; |
-| 24 | What is regular, and what is an exception? | Zuraw (2002) |
-| {{< td-colspan 3 >}}**Student Presentations**{{< /td-colspan >}} |||
-| 25 | Student Presentations, Part 1 | &nbsp; |
-| 26 | Student Presentations, Part 2 |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+topics
+{{< thclose >}}
+{{< thopen >}}
+readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Correspondence Theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Correspondence Theory Basics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Correspondence Theory (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+McCarthy and Prince (1994) Appendix
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+MAX F Constraints and Positional Faithfulness
+{{< tdclose >}}
+{{< tdopen >}}
+Lombardi (1998) (optional)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Reduplication**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Reduplication: Basic Laws
+{{< tdclose >}}
+{{< tdopen >}}
+Marantz (1982)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Reduplicative Correspondence
+{{< tdclose >}}
+{{< tdopen >}}
+McCarthy and Prince (1994)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Reduplicant Size and Placement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Reduplicant Size and Placement (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Broselow and McCarthy (1983) (optional)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+BR vs. IR Correspondence
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+McCarthy and Prince (1994)
+
+Alderete et. al. (1999)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Emergence of the Unmarked, and Non-reduplicative Correspondence
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Zuraw (2002)
+
+Rose and Walker (2004)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Lexical Phonology and Cyclicity Effects**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Lexical vs. Postlexical Phonology
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kiparsky (1982)
+
+Chung (1983)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Cyclicity and its OT Translations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+OO Correspondence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Base-derivative Correspondence
+{{< tdclose >}}
+{{< tdopen >}}
+Benua (1997)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Paradigm Uniformity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Paradigm Uniformity
+{{< tdclose >}}
+{{< tdopen >}}
+Steriade (1999)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Paradigm Uniformity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+McCarthy (2003)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+More on Paradigm Regularization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Opacity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Overview: Types of Opacity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Characteristics of Opacity
+{{< tdclose >}}
+{{< tdopen >}}
+McCarthy (1999)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Formalization of Opacity in OT
+{{< tdclose >}}
+{{< tdopen >}}
+Ito and Mester (2003)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Sympathy Theory  
+  
+Other Approaches to Opacity
+{{< tdclose >}}
+{{< tdopen >}}
+Kiparsky (1973)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Comparative Markedness
+{{< tdclose >}}
+{{< tdopen >}}
+McCarthy (2003)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Exceptions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Exceptions
+{{< tdclose >}}
+{{< tdopen >}}
+Kenstowicz and Kisseberth  
+(1977) Chapter 2, Sec. 3.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+The Representation of Exceptions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+What is regular, and what is an exception?
+{{< tdclose >}}
+{{< tdopen >}}
+Zuraw (2002)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Student Presentations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations, Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations, Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
