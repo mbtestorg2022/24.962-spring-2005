@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[24.961](/courses/24-961-introduction-to-phonology-fall-2014/) or equivalent
+[24.961](/courses/24-961-introduction-to-phonology-fall-2014) or equivalent
 
 Course Requirements
 -------------------
