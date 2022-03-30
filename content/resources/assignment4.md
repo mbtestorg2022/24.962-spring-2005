@@ -5,6 +5,7 @@ description: A reading assignment on "Reduplication with fixed segmentism" and p
   fixed segmentism.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-962-advanced-phonology-spring-2005/4e55d351557cc20a7982c595305c12dc_assignment4.pdf
 file_type: application/pdf
+parent_uid: a29922a1-7ac8-0f6e-f4d7-d7d1b79f14bc
 resourcetype: Document
 title: assignment4.pdf
 uid: 4e55d351-557c-c20a-7982-c595305c12dc

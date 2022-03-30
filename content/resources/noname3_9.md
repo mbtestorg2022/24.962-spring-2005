@@ -5,6 +5,7 @@ description: 'Includes topics: Characterize and illustration of the cyclic syndr
   does/does not derive.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-962-advanced-phonology-spring-2005/2cc3d68e6f861696f3bf73842124e0a1_noname3_9.pdf
 file_type: application/pdf
+parent_uid: 1b9a18db-babb-02b3-0e18-9cfabe44f6cd
 resourcetype: Document
 title: noname3_9.pdf
 uid: 2cc3d68e-6f86-1696-f3bf-73842124e0a1

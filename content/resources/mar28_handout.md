@@ -6,6 +6,7 @@ description: 'Includes topics: Review of topics covered in previous lecture, OO 
   optimization.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-962-advanced-phonology-spring-2005/bfd53a22233763c9e64df6fa44d6b24a_mar28_handout.pdf
 file_type: application/pdf
+parent_uid: 1b9a18db-babb-02b3-0e18-9cfabe44f6cd
 resourcetype: Document
 title: mar28_handout.pdf
 uid: bfd53a22-2337-63c9-e64d-f6fa44d6b24a

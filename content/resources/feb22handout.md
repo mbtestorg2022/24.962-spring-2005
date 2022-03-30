@@ -4,6 +4,7 @@ description: 'Includes topics: Canonical reduplication patterns, the OT equivale
   where to copy from, and where to put, generalizations, and a hypothesis.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-962-advanced-phonology-spring-2005/7c17d5c88c713e40ea3d5ba6f3db8b7b_feb22handout.pdf
 file_type: application/pdf
+parent_uid: 1b9a18db-babb-02b3-0e18-9cfabe44f6cd
 resourcetype: Document
 title: feb22handout.pdf
 uid: 7c17d5c8-8c71-3e40-ea3d-5ba6f3db8b7b
